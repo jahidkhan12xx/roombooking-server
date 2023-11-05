@@ -1,0 +1,93 @@
+[
+    {
+      "title": "Luxury Double Suite with Ocean View",
+      "des": "Experience luxury at its best in our double suite offering a breathtaking view of the ocean. The suite features a spacious living area, a king-size bed, and a private balcony. The elegantly designed interior and the scenic view make for a truly opulent stay by the sea.",
+      "price": 250,
+      "size": "45 sqm",
+      "availability": true,
+      "room_img": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offers": "Complimentary breakfast and spa session"
+    },
+    {
+      "title": "Cozy Single Room with Cityscape",
+      "des": "Our cozy single room offers a spectacular view of the cityscape. The room is compact yet comfortable, providing a restful night's sleep. Ideal for solo travelers, the room features a comfortable bed and a workspace, ensuring a peaceful stay within the bustling city.",
+      "price": 80,
+      "size": "25 sqm",
+      "availability": true,
+      "room_img": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offers": "Free Wi-Fi for the duration of the stay"
+    },
+    {
+      "title": "Family Suite with Mountain View",
+      "des": "Enjoy a family getaway in our spacious suite with a magnificent mountain view. The suite comprises multiple rooms, providing ample space for the entire family. With comfortable bedding and a splendid view, this suite ensures a memorable stay amidst scenic beauty.",
+      "price": 300,
+      "size": "65 sqm",
+      "availability": true,
+      "room_img": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offers": "Special rates for children and complimentary activities"
+    },
+    {
+      "title": "Executive Suite with Panoramic Skyline",
+      "des": "Indulge in the magnificence of our executive suite boasting a panoramic skyline view. The suite offers a lavish living space, a king-size bed, and a private workspace. The opulent decor and the view ensure a delightful and luxurious experience for our guests.",
+      "price": 400,
+      "size": "80 sqm",
+      "availability": true,
+      "room_img": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offers": "Exclusive access to the executive lounge and personalized services"
+    },
+    {
+      "title": "Classic Twin Room with Garden Access",
+      "des": "Embrace the charm of our classic twin room with direct access to the lush garden. The room features two comfortable beds and a view that provides a serene ambiance. Perfect for a small group or friends seeking a comfortable and delightful stay.",
+      "price": 180,
+      "size": "40 sqm",
+      "availability": true,
+      "room_img": "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offers": ""
+    },
+    {
+      "title": "Penthouse Suite with Rooftop Garden",
+      "des": "Elevate your experience with our penthouse suite offering a private rooftop garden. The suite is designed for ultimate luxury, featuring a spacious living area, a grand bedroom, and exclusive access to the rooftop garden with panoramic views.",
+      "price": 700,
+      "size": "120 sqm",
+      "availability": true,
+      "room_img": "https://images.unsplash.com/photo-1630660664869-c9d3cc676880?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offers": "VIP concierge services and complimentary dining experiences"
+    },
+    {
+      "title": "Business Class Room with Workspace",
+      "des": "Stay productive and comfortable in our business class room designed for professionals. The room features a dedicated workspace and a restful environment, ensuring an efficient and pleasant stay for business travelers.",
+      "price": 150,
+      "size": "30 sqm",
+      "availability": true,
+      "room_img": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?auto=format&fit=crop&q=80&w=1974&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offers": "Complimentary shuttle service and late check-out"
+    },
+    {
+      "title": "Elegant Villa by the Lakeside",
+      "des": "Experience luxury living in our elegant lakeside villa. The villa offers a serene lakeside view and sophisticated interiors, perfect for a relaxing and lavish retreat. Enjoy a spacious living area, multiple bedrooms, and a private garden by the lake.",
+      "price": 600,
+      "size": "200 sqm",
+      "availability": true,
+      "room_img": "https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?auto=format&fit=crop&q=80&w=2060&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offers": "Personal chef and exclusive concierge services"
+    },
+    {
+      "title": "Rustic Cabin in the Woods",
+      "des": "Escape to our rustic cabin situated in the midst of a peaceful forest. The cabin provides a cozy setting with woodsy interiors, a comfortable bedroom, and a fireplace. Embrace nature's tranquility and experience a serene stay in the woods.",
+      "price": 120,
+      "size": "50 sqm",
+      "availability": true,
+      "room_img": "https://images.unsplash.com/photo-1630660664869-c9d3cc676880?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "offers": "Guided nature walks and complimentary breakfast"
+    },
+    {
+      "title": "Modern Loft with City Panorama",
+      "des": "Enjoy modern comfort in our loft with a stunning panoramic view of the city. The open-concept design, stylish interiors, and high-rise view make this loft a perfect blend of urban sophistication and comfort.",
+      "price": 280,
+      "size": "55 sqm",
+      "availability": true,
+      "room_img": "modern-city-loft.jpg",
+      "offers": "Exclusive rooftop access and complimentary city tours"
+    }
+  ]
+  
