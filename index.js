@@ -13,12 +13,9 @@ app.use(express.json());
 app.use(
   cors({
     origin: [
-      "http://localhost:5173"
-      // "https://assignment-11-7ddcc.web.app",
-
-      // "https://assignment-11-7ddcc.web.app",
-      // "https://assignment-11-7ddcc.firebaseapp.com",
-      // "https://assignment-11-7ddcc.web.app/"
+      "http://localhost:5173",
+      "https://assignment-11-7ddcc.web.app",
+      "https://assignment-11-7ddcc.firebaseapp.com"
     ],
     credentials: true,
   })
