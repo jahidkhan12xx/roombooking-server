@@ -110,7 +110,7 @@ async function run() {
     app.patch("/api/v1/bookings/:id", async(req,res)=>{
       const data = req.body.date;
       const id = req.params.id;
-      console.log(data,id);
+      
       
 
       const filter = { _id: new ObjectId(id) };
@@ -125,7 +125,7 @@ async function run() {
         updatedUSer,
         options
       );
-      // console.log(data.room_count);
+      
       res.send(result);
     })
 
