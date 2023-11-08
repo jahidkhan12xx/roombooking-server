@@ -181,7 +181,7 @@ async function run() {
         updatedUSer,
         options
       );
-      // console.log(data.room_count);
+      
       res.send(result);
     })
 
@@ -191,6 +191,7 @@ async function run() {
       const review = req.body;
       const result = await reviewCollection.insertOne(review);
       res.send(result);
+      console.log(result);
     })
 
     app.get("/api/v1/reviews", async(req,res)=>{
