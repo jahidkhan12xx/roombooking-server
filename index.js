@@ -97,7 +97,7 @@ async function run() {
         secure:true,
         sameSite:'none'
        }).send()
-      
+      console.log(token);
     })
 
     app.post("/api/v1/bookings", async (req,res)=>{
