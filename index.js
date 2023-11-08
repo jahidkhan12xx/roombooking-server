@@ -65,7 +65,7 @@ async function run() {
 
     app.get("/api/v1/rooms", async (req,res)=>{
 
-      // console.log(req?.user?.email);
+      
 
       let sortObj = {}
 
@@ -160,7 +160,7 @@ async function run() {
         _id: new ObjectId(id),
       };
       const result = await bookingCollection.deleteOne(query);
-      console.log(result);
+      
       res.send(result);
     })
 
@@ -223,5 +223,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`This app is running on port ${port}`)
+  console.log(`This app running on port ${port}`)
 })
